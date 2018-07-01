@@ -131,7 +131,7 @@
 
                 android:fontFamily="serif"
                 android:paddingLeft="105dp"
-                android:paddingRight="105dp"
+                android:paddingRight="104dp"
                 android:text="Login"
                 android:textAllCaps="false"
                 android:textColor="@color/color1"
