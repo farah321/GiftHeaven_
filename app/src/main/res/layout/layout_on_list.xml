@@ -5,14 +5,14 @@
     >
 
     <LinearLayout
-        android:layout_marginTop="7dp"
+        android:layout_marginTop="1dp"
         android:layout_width="match_parent"
         android:layout_height="115dp"
         android:id="@+id/mylayout"
         android:background="@drawable/btn_bg"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="1dp"
         android:orientation="horizontal"
         >
 
